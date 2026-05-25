@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Camisa",
+      "price": 59.9
+    },
+    {
+      "id": "2",
+      "name": "Calça vermelha",
+      "price": 90
+    },
+    {
+      "id": "3",
+      "name": "Boné aba reta",
+      "price": 29.9
+    },
+    {
+      "id": "9010",
+      "name": "Desenvolvedor ",
+      "price": "10"
+    },
+    {
+      "id": "2461",
+      "name": "Desenvolvedor ",
+      "price": "10"
+    },
+    {
+      "id": "08ce",
+      "name": "teclado",
+      "price": "110"
+    },
+    {
+      "id": "1047",
+      "name": "mouse",
+      "price": "220"
+    },
+    {
+      "id": "8459",
+      "name": "mouse",
+      "price": "220"
+    },
+    {
+      "id": "dcdc",
+      "name": "teclado ",
+      "price": "20"
+    }
+  ]
+}
